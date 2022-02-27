@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding good newes from the Neweries in Ireland. Being, the true copie of a letter sent from Dublin the 20. of Aprill, 1642. To Sir William Adderton, now resident in London, from Mr. Stephen Iohnson merchant. Wherein is declared the victorious proceedings of the protestant army in the Neweries. Likewise the true discription of a famous victory obtained against 5000 of the rebels, by Sir Christopher Loftus on the 16. day of Aprill, where he slew almost 4000 of them, putting the rest to flight. Also a true relation, how and by what meanes Sir Charles Coote, Captaine Daniel Bartlet, and Sir Christopher Loftus, on the 18. day of Aprill, tooke a great castle where Philomy Oneale was quartered, and where great store of victuall and ammunition was found, to the great reliefe of our English army. With a true intelligence that there was that day 3000 more of the rebels slaine. Sent over by the last post, and now by intreaty printed for the comfort and consolation of all true hearted Protestants, that are well-willers to their brethren in Ireland.</title>
+            <author>Johnson, Stephen, Merchant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87608</idno>
+            <idno type="STC">Wing J848</idno>
+            <idno type="STC">Thomason E143_18</idno>
+            <idno type="STC">ESTC R8651</idno>
+            <idno type="EEBO-CITATION">99873364</idno>
+            <idno type="PROQUEST">99873364</idno>
+            <idno type="VID">156609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156609)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding good newes from the Neweries in Ireland. Being, the true copie of a letter sent from Dublin the 20. of Aprill, 1642. To Sir William Adderton, now resident in London, from Mr. Stephen Iohnson merchant. Wherein is declared the victorious proceedings of the protestant army in the Neweries. Likewise the true discription of a famous victory obtained against 5000 of the rebels, by Sir Christopher Loftus on the 16. day of Aprill, where he slew almost 4000 of them, putting the rest to flight. Also a true relation, how and by what meanes Sir Charles Coote, Captaine Daniel Bartlet, and Sir Christopher Loftus, on the 18. day of Aprill, tooke a great castle where Philomy Oneale was quartered, and where great store of victuall and ammunition was found, to the great reliefe of our English army. With a true intelligence that there was that day 3000 more of the rebels slaine. Sent over by the last post, and now by intreaty printed for the comfort and consolation of all true hearted Protestants, that are well-willers to their brethren in Ireland.</title>
+                  <author>Johnson, Stephen, Merchant.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for I.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bartlet, Daniel, 17th cent.</term>
+               <term>Coote, Charles, --  Sir, d. 1642.</term>
+               <term>Loftus, Christopher, --  Sir.</term>
+               <term>O'Neill, Phelim, --  Sir, 1604?-1653.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156609:1"/>
+            <!-- PDF PAGE 30 -->
+            <pb facs="tcp:156609:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <p>Exceeding good Newes From the <hi>NEWERIES</hi> in IRELAND.</p>
+            <p>BEING, The true Copie of a Letter ſent from <hi>Dublin</hi> the 20. of <hi>Aprill,</hi> 1642. To Sir <hi>William Adderton,</hi> now re<g ref="char:EOLhyphen"/>ſident in <hi>London,</hi> from Mr. <hi>Stephen Ioh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon</hi> Merchant.</p>
+            <p>Wherein is declared the Victorious Proceedings of the Pro<g ref="char:EOLhyphen"/>teſtant Army in the <hi>Neweries.</hi>
+            </p>
+            <p>Likewiſe the true Diſcription of a famous Victory obtained againſt 5000 of the Rebels, by Sir <hi>Chriſtopher Loftus</hi> on the 16. day of <hi>Aprill,</hi> where he ſlew almoſt 4000 of them, putting the reſt to flight.</p>
+            <p>Alſo a true Relation, how and by what meanes Sir <hi>Charles Coote,</hi> Captaine <hi>Daniel Bartlet,</hi> and Sir <hi>Chriſtopher Loftus.</hi> on the 18. day of <hi>Aprill,</hi> tooke a great Caſtle where <hi>Philo<g ref="char:EOLhyphen"/>my Oneale</hi> was quartered, and where great ſtore of Victuall and Ammunition was found, to the great reliefe of our En<g ref="char:EOLhyphen"/>gliſh Army, With a true intelligence that there was that day 3000 more of the Rebels ſlaine.</p>
+            <p>Sent over by the laſt Poſt, And now by intreaty printed for the comfort and conſolation of all true hear<g ref="char:EOLhyphen"/>ted Proteſtants, that are Well-willers to their Brethren in <hi>JRELAND.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. F.</hi> for <hi>I. H.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156609:2"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:156609:2"/>
+            <!-- PDF PAGE 31 -->
+            <head>THE True Copie of a Let<g ref="char:EOLhyphen"/>ter ſent from <hi>DVBLIN.</hi> the 20. of <hi>Aprill,</hi> 1642. directed to Sir <hi>William Adderton</hi> reſi<g ref="char:EOLhyphen"/>dent in <hi>London,</hi> from a Mer<g ref="char:EOLhyphen"/>chant in <hi>Dublin.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter my ſervice remembred unto you, Theſe are to give you a true and Reall Relation of all the Victorious proceedings of the Proteſtant party, who are now in the <hi>Neweries,</hi> under the Command of Sir <hi>Chriſtopher Loftus</hi> and Sir <hi>Charles Coote,</hi> like<g ref="char:EOLhyphen"/>wiſe 1. Regiment of <hi>Scotch,</hi> under the Com<g ref="char:EOLhyphen"/>mand of Captain <hi>Daniel Bartlet,</hi> a Noble and forward Gentleman, all which forces by the Aſſiſtance of God, have obtained divers glori<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:156609:3"/>
+               <!-- PDF PAGE 32 -->Victories againſt the Rebels, the firſt of which was obtained in the <hi>Neweries</hi> on the 16. day of this preſent moneth, where Sir <hi>Chriſtopher Loftus</hi> gave battle to 5000 Rebels, he having in his whole command, but 1500 men, the reſt of his forces being left at <hi>Water<g ref="char:EOLhyphen"/>foord</hi> in Garriſon, which 1500. he devided into foure diviſions, charging the Rebels on all ſides at once, which unexpected aſſault did ſo confuſe their Order, that they knew not how to make reſiſtance, but tooke them to their Heeles, but our Bullets was nimbler then they, and ſoone ended their Journeys, for of 5000. Rebels there eſcaped not above one thouſand, as we might gueſſe by the dead Bodies which they left behind to intombe the ground, which ſhould have beene their graves, which being done Sr. <hi>Chriſtopher</hi> re<g ref="char:EOLhyphen"/>treated to his Quarters.</p>
+            <p>On the 18. day, He joyned with Sr. <hi>Charles Coote, and Captaine Daniell Bartlet,</hi> who mar<g ref="char:EOLhyphen"/>ched abroad with intent to take a Caſtle, which was the Quarters of <hi>Philomy Oneale,</hi> Generall of the Rebels, moſt of their Victuall and ammunition was ſtored there, wherefore
+<pb facs="tcp:156609:3"/>
+               <!-- PDF PAGE 32 -->they joyned all their forces, it being a deſigne of great difficulty, moſt of the Rebels Forces being intrenctht about the Caſtle to ſecure it, that being their greateſt &amp; chiefeſt Magazine, which intent was put in execution, for with a generall conſent they drew their Forces to a head, and marcht unto the Caſtle, carrying with them eight great field Pieces, which was planted upon a Hill on the North ſide of the Caſtle, both to command the Trenches and the Caſtle.</p>
+            <p>Likewiſe they devided their Forces into two parts, out of which they choſe, three hundred able men for Pioners, to undermine the ground toward the Caſtle, which was done with as much ſecrecy as expedition. Likewiſe Captaine <hi>Daniell Bartlet</hi> drew out two hundred, and gave a falſe alarum, which the Rebels ſeeing, bent all their force to make reſiſtance, in the meane time Sir <hi>Charles Coote</hi> entred the Trenches on the other ſide, and got unto a Canon that was mounted upon a running Carriage, and turned it full upon them, being charged with ſlugs of Lead, which made them fall like ſo many rotten Sheep.</p>
+            <p>
+               <pb facs="tcp:156609:4"/>
+               <!-- PDF PAGE 33 -->
+Likewiſe the Caſtle let flye their Ordnance upon us, but as it hapned they killed more of their owne men, then Ours, in this time Our Pioners had undermined the ground quite through the Caſtle walls, ſo that foure men might march on a breaſt, which being done without the leaſt ſuſpect, our men ſeem'd to retreat, as fearing of their Ordnance which cauſed the Rebels to draw to a new head, ſome 500. Rebels marching out of the Caſtle, to ſtrengthen thoſe that had before been worſted, likewiſe <hi>Philomy Oneale</hi> with 200. Horſe marched out upon us, leaving not above a hundred men to guard the Caſtle, which being done, Sir <hi>Charles Coote</hi> with a ſoft Countermarch, charg'd and retreated, by that meanes endeavouring to draw the Re<g ref="char:EOLhyphen"/>bels further from the Caſtle, which quickly tooke effect, for the Rebels ſeeing him charge ſo faintly, and retreate, fell on moſt fiercely, leaving of the Trenches and followed on purſuite of a ſuppoſed victory, for ſo it was to them, for all their hopes were fruſtrate and their Victory was turned to an over<g ref="char:EOLhyphen"/>throw.</p>
+            <p>
+               <pb facs="tcp:156609:4"/>
+               <!-- PDF PAGE 33 -->
+In the meane time, Captaine <hi>Bartlet</hi> with his two hundred men entred the Caſtle and ceaz'd upon the Ordnance, putting both man woman, and child to death, which being done, Captain <hi>Bartlet</hi> went up to the higheſt Turret and hung up an <hi>Engliſh</hi> Enſigne, withall diſcharging all the Ordnance at once up<g ref="char:EOLhyphen"/>on the Rebels, making ſuch a ſlaughter as hath not beene ſince the Rebellion, Sir <hi>Charles Coote</hi> and Sir <hi>Chriſtopher Loftus</hi> ſeeing the Enſigne knew what good ſucceſſe their plot had taken, then they charged them fiercely, ſo that had not <hi>Philimy Oneales</hi> horſe beene nimbler then his hands he had been higher by the head then he is, part of their horſe e<g ref="char:EOLhyphen"/>ſcapt, and ſome ſmall number of foote, one<g ref="char:EOLhyphen"/>ly there was ſlaine about 3000 Rebels, and of the Engliſh ſome 800 and 100 maimed, thus was this Caſtle ſurpriſed by the valour and Policy of theſe Valiant and Judicious Commanders, being ſtored with all ſorts of Victuall and Ammunition to the great en<g ref="char:EOLhyphen"/>couragement of our men. God bee thanked we are gotten almoſt forty <hi>Jriſh</hi> myles into the <hi>Neweries,</hi> God ſend us ſome more ayd,
+<pb facs="tcp:156609:5"/>
+               <!-- PDF PAGE 34 -->and then we make no queſtion but that we ſhall ſoone tame theſe Rebels, and bring them to obedience unto our Royall Sove<g ref="char:EOLhyphen"/>raigne, many other skirmiſhes we have <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad, which time will not permit me to write, but the next opportunity that I have, I will give you further intelligence, till which time I reſt,</p>
+            <closer>
+               <signed>Your friend to be commanded, <hi>Stephen Johnſon.</hi>
+               </signed>
+               <dateline>From Dublin <date>the 20. of Aprill, 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
